@@ -1,5 +1,6 @@
 ### Hi there 👋
-![](https://visitor-badge.laobi.icu/badge?page_id=ResponseTime.ResponseTime) [![Github](https://img.shields.io/github/followers/ResponseTime?label=Follow&style=social)](https://github.com/ResponseTime)
+![](https://visitor-badge.laobi.icu/badge?page_id=ResponseTime.ResponseTime) 
+[![Github](https://img.shields.io/github/followers/ResponseTime?label=Follow&style=social)](https://github.com/ResponseTime)
 <!--
 **ResponseTime/ResponseTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
