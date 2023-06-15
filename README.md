@@ -1,8 +1,7 @@
 ### Hi there 👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=ResponseTime) 
 [![Github](https://img.shields.io/github/followers/ResponseTime?label=Follow&style=social)](https://github.com/ResponseTime)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ResponseTime&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 
 <!--
 **ResponseTime/ResponseTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ## ✉️ Find me on:
-
-
 <p align="center">
  <a href="https://www.linkedin.com/in/aayush-bhattacharjee/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:aayush.bhattacharjee2002@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
@@ -33,3 +30,6 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+##
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ResponseTime&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
