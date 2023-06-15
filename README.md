@@ -7,7 +7,7 @@
 **ResponseTime/ResponseTime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
-##🎓 I am Computer Science Student at Guru Gobind Singh Indraprastha University
+###🎓 I am Computer Science Student at Guru Gobind Singh Indraprastha University
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
