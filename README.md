@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Bhattacharjee</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-
+![Snake animation](https://github.com/ResponseTime/ResponseTime/blob/output/github-contribution-grid-snake.svg)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=responsetime&show_icons=true&locale=en&layout=compact" alt="responsetime" /></p>
 <br>
