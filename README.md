@@ -3,10 +3,10 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResponseTime&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="responsetime" /></p>
-<br>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=responsetime&label=Profile%20views&color=0e75b6&style=flat" alt="responsetime" /> </p>
 
+
+<br>
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=responsetime" alt="responsetime" /> </p>
 <p align="right"> <a href="https://twitter.com/aayushcs09" target="blank"><img src="https://img.shields.io/twitter/follow/aayushcs09?logo=twitter&style=for-the-badge" alt="aayushcs09" /></a> </p>
 <br>
 
