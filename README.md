@@ -6,7 +6,7 @@
 
 
 <br>
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=responsetime" alt="responsetime" /> </p>
+<p align="right"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=responsetime" alt="responsetime" /> </p>
 <p align="right"> <a href="https://twitter.com/aayushcs09" target="blank"><img src="https://img.shields.io/twitter/follow/aayushcs09?logo=twitter&style=for-the-badge" alt="aayushcs09" /></a> </p>
 <br>
 
