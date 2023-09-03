@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Aayush Bhattacharjee</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-
+<p align="center"> <img src="https://github.com/ResponseTime/ResponseTime/assets/80978976/3ea58728-19a7-4647-8e16-fc1ce6fab99d" alt="responsetime" /> </p>
 
 
 
 <br>
-<p align="right"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=responsetime" alt="responsetime" /> </p>
-<p align="right"> <a href="https://twitter.com/aayushcs09" target="blank"><img src="https://img.shields.io/twitter/follow/aayushcs09?logo=twitter&style=for-the-badge" alt="aayushcs09" /></a> </p>
+
+
 <br>
-
-
-
-
 
 
 <br>
