@@ -4,13 +4,13 @@
 <p align="center"> <img src="https://github.com/ResponseTime/ResponseTime/assets/80978976/3ea58728-19a7-4647-8e16-fc1ce6fab99d" alt="responsetime" /> </p>
 
 ## Connect with me  
-<a href="https://github.com/https://github.com/ResponseTime" target="_blank">
+<a href="https://github.com/ResponseTime" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aayush-bhattacharjee/" target="_blank">
+<a href="https://www.linkedin.com/in/aayush-bhattacharjee/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/AayushCS09" target="_blank">
+<a href="https://twitter.com/AayushCS09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api?username=responsetime&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
