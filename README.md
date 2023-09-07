@@ -13,9 +13,10 @@
 <a href="https://twitter.com/https://twitter.com/AayushCS09" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
-<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=responsetime&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=responsetime&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
+<div align="right" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=responsetime&hide_border=true&layout=compact" width="355px" align="center" /></div>
 <br/>  
+
 
 
 ## My Skill Set  
