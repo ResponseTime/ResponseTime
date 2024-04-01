@@ -3,19 +3,7 @@
 
 <p align="center"> <img src="https://github.com/ResponseTime/ResponseTime/assets/80978976/3ea58728-19a7-4647-8e16-fc1ce6fab99d" alt="responsetime" /> </p>
 
-## Connect with me  
-<a href="https://github.com/ResponseTime" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.linkedin.com/in/aayush-bhattacharjee/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/AayushCS09" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=responsetime&show_icons=true&count_private=true&hide_border=true" align="left" /></div>  
-<div align="right" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=responsetime&hide_border=true&layout=compact" width="355px" align="center" /></div>
-<br/>  
+
 
 
 
@@ -79,6 +67,18 @@
 
 
 
+
 <p align="center">
+
+<a href="https://www.linkedin.com/in/aayush-bhattacharjee/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/AayushCS09" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>  
+<br/>
+<br/>
 <img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"/>
+  
 </p>
+
