@@ -1,5 +1,6 @@
 <h1 align="center"> <img width="80px" height="80px" src="https://camo.githubusercontent.com/f78d6a4f33cf75bf962fb1159d6278e3af05dfce113be61dd663c20802943e44/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966" alt="responsetime" /> Hi 👋, I'm Aayush Bhattacharjee <img width="80px" height="80px" src="https://camo.githubusercontent.com/f34b099d3bc06fb4ca92252c8a7346a19fbe235d4aa43efe789a399cb1111a72/68747470733a2f2f632e74656e6f722e636f6d2f585362443930326e31667741414141692f72656e6e656e2d666173742e676966" alt="responsetime" /> </h1>
 
+### <p align="center">Software Developer</p>
 
 <p align="center"> <img src="https://github.com/ResponseTime/ResponseTime/assets/80978976/3ea58728-19a7-4647-8e16-fc1ce6fab99d" alt="responsetime" />  </p>
 
