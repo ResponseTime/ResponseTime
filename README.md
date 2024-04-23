@@ -26,8 +26,9 @@
               Age: 21,
               Role: "Software Engineer",
               Code: []string{"Golang","Python","Javascript","Typescript","Python","Java"},
-              WorkingAt: "Warewe"
+              WorkingAt: "Warewe",
           }
+         fmt.Printf("%#v",Me)
        }                                                            
 </pre>
 </td>
