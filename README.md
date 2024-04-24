@@ -1,9 +1,9 @@
-<h1 align="center">  Hi 👋, I'm Aayush Bhattacharjee</h1>
+[//]: # (<h1 align="center">  Hi 👋, I'm Aayush Bhattacharjee</h1>)
 
 [//]: # (<p align="center"> <img src="https://github.com/ResponseTime/ResponseTime/assets/80978976/3ea58728-19a7-4647-8e16-fc1ce6fab99d" alt="responsetime" />  </p>)
 
 <table align="center">
-  <tr>
+  <tr >
     <td>
       <pre lang="go">
     
@@ -25,8 +25,8 @@
               Name: "Aayush Bhattacharjee",
               Age: 21,
               Role: "Software Engineer",
-              Code: []string{"Golang","Python","Javascript","Typescript","Python","Java"},
-              WorkingAt: "Warewe",
+              Code: []string{"Golang","Python","Javascript","Typescript","Java"},
+              WorkingAt: "Warewe Consultancy Pvt Ltd",
           }
          fmt.Printf("%#v",Me)
        }                                                            
